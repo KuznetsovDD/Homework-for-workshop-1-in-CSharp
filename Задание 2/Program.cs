@@ -1,6 +1,6 @@
-﻿Console.Write("Вdедите чесло 1: ");
+﻿Console.Write("Введите чесло 1: ");
 int a = Convert.ToInt32(Console.ReadLine());
-Console.Write("Вdедите чесло 2: ");
+Console.Write("Введите чесло 2: ");
 int b = Convert.ToInt32(Console.ReadLine());
 if(a==b)
 {
